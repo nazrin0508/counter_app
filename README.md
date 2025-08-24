@@ -26,14 +26,14 @@ It allows a user to increment, decrement, or reset a counter value. The counter 
 
 ## 📂 Project Structure
 counter_app/
-│── index.php # Main UI (Bootstrap + AJAX)
-│── update_counter.php # Backend to update counter
-│── dbconn.php # Database connection
-│── counter_db.sql # SQL file for DB setup
-│── README.md # Documentation
+│── index.php
+│── update_counter.php
+│── dbconn.php
+│── counter_db.sql
+│── README.md
 │── assets/
-└── css/
-└── style.css # Optional custom styles
+    └── css/
+        └── style.css
 
 
 ---
